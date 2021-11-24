@@ -1,1 +1,1 @@
-# LearnJavaScript
+# Coding practice with JavaScript
